@@ -1,0 +1,91 @@
+owner: mifanTeddy
+repo: status.mifan.im
+
+assignees:
+  - mifanTeddy
+
+sites:
+  - name: mifan.im
+    url: https://mifan.im/
+  - name: Links
+    url: https://links.mifan.im/
+  - name: Daily
+    url: https://daily.mifan.im/
+  - name: AI World
+    url: https://world.mifan.im/
+  - name: Games
+    url: https://games.mifan.im/
+  - name: Disperse
+    url: https://disperse.mifan.im/
+  - name: Avatar
+    url: https://avatar.mifan.im/
+  - name: Quiz
+    url: https://quiz.mifan.im/
+  - name: Maple Doll
+    url: https://maple.mifan.im/
+  - name: Art
+    url: https://art.mifan.im/
+  - name: Cat Avatar
+    url: https://cat.mifan.im/
+  - name: Dog Avatar
+    url: https://dog.mifan.im/
+  - name: Pig Avatar
+    url: https://pig.mifan.im/
+  - name: Meme
+    url: https://meme.mifan.im/
+  - name: Palette Studio
+    url: https://palette.mifan.im/
+  - name: Muscle
+    url: https://muscle.mifan.im/
+    expectedStatusCodes:
+      - 200
+      - 307
+  - name: Tools
+    url: https://tools.mifan.im/
+  - name: Math
+    url: https://math.mifan.im/
+    expectedStatusCodes:
+      - 401
+  - name: Physics
+    url: https://physics.mifan.im/
+  - name: Tuixiu
+    url: https://tuixiu.mifan.im/
+  - name: Worth Job
+    url: https://worthjob.mifan.im/
+  - name: Focus
+    url: https://focus.mifan.im/
+  - name: Draw
+    url: https://draw.mifan.im/
+  - name: Streak
+    url: https://streak.mifan.im/
+  - name: Meal
+    url: https://meal.mifan.im/
+  - name: Resume
+    url: https://resume.mifan.im/
+  - name: Blog
+    url: https://blog.mifan.im/
+  - name: Now
+    url: https://now.mifan.im/
+  - name: Lab
+    url: https://lab.mifan.im/
+  - name: API
+    url: https://api.mifan.im/
+  - name: Changelog
+    url: https://changelog.mifan.im/
+
+status-website:
+  cname: status.mifan.im
+  logoUrl: https://raw.githubusercontent.com/mifanTeddy/status.mifan.im/master/assets/status.svg
+  name: mifan Status
+  introTitle: "mifan project status"
+  introMessage: "Automated uptime monitoring for mifan.im and related project sites, powered by GitHub Actions, Issues, and Pages."
+  navbar:
+    - title: Status
+      href: /
+    - title: Links
+      href: https://links.mifan.im/
+    - title: GitHub
+      href: https://github.com/mifanTeddy/status.mifan.im
+
+# Upptime also supports notifications and private endpoints.
+# See https://upptime.js.org/docs/configuration

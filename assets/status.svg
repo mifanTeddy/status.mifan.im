@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-label="mifan status">
+  <rect width="256" height="256" rx="48" fill="#0f172a"/>
+  <path d="M54 164V90h22l26 38 26-38h22v74h-24v-38l-20 29h-8l-20-29v38H54Z" fill="#f8fafc"/>
+  <path d="M165 164V90h37c20 0 33 11 33 29 0 17-13 28-33 28h-13v17h-24Zm24-36h12c7 0 11-3 11-9s-4-9-11-9h-12v18Z" fill="#38bdf8"/>
+  <circle cx="203" cy="198" r="13" fill="#22c55e"/>
+</svg>
