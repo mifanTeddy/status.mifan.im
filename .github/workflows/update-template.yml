@@ -16,8 +16,8 @@
 
 name: Update Template CI
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # 定时已禁用：需要 GH_PAT (含 workflow scope) 才能更新 workflow 文件，否则每天会失败发邮件
+  # 设置好 PAT 后可恢复 schedule: - cron: "0 0 * * *"
   repository_dispatch:
     types: [update_template]
   workflow_dispatch:
