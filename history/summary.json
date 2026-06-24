@@ -310,20 +310,20 @@
     "url": "https://math.mifan.im/",
     "icon": "https://icons.duckduckgo.com/ip3/math.mifan.im.ico",
     "slug": "math",
-    "status": "down",
-    "uptime": "99.46%",
-    "uptimeDay": "67.23%",
-    "uptimeWeek": "95.32%",
-    "uptimeMonth": "98.92%",
-    "uptimeYear": "99.46%",
+    "status": "up",
+    "uptime": "99.01%",
+    "uptimeDay": "39.64%",
+    "uptimeWeek": "91.38%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "99.01%",
     "time": 150,
-    "timeDay": 371,
-    "timeWeek": 322,
-    "timeMonth": 183,
+    "timeDay": 346,
+    "timeWeek": 306,
+    "timeMonth": 182,
     "timeYear": 150,
     "dailyMinutesDown": {
       "2026-06-23": 350,
-      "2026-06-24": 122
+      "2026-06-24": 520
     }
   },
   {
